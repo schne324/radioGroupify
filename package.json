@@ -1,0 +1,27 @@
+{
+  "name": "radio-groupify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/radioGroupify.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schne324/radioGroupify.git"
+  },
+  "author": "Harris Schneiderman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/schne324/radioGroupify/issues"
+  },
+  "homepage": "https://github.com/schne324/radioGroupify#readme",
+  "devDependencies": {
+    "better-assert": "^1.0.2",
+    "chai": "^3.4.0",
+    "gulp": "^3.9.1",
+    "gulp-shell": "^0.5.2",
+    "mocha": "^2.3.3",
+    "mocha-phantomjs": "^4.1.0"
+  }
+}

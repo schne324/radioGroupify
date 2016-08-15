@@ -1,0 +1,22 @@
+{
+  "name": "radio-groupify",
+  "description": "accessibilize custom radio groups",
+  "main": "src/radioGroupify.js",
+  "version": "0.0.1",
+  "authors": [
+    "Harris Schneiderman"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "a11y",
+    "custom-radio"
+  ],
+  "homepage": "https://github.com/schne324/radioGroupify",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

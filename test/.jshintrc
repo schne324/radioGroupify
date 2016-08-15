@@ -1,0 +1,15 @@
+{
+  "node": true,
+  "predef": [
+    "assert",
+    "before",
+    "beforeEach",
+    "after",
+    "should",
+    "it",
+    "describe",
+    "jQuery",
+    "window",
+    "document"
+  ]
+}

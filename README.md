@@ -3,6 +3,9 @@
 Converts custom radio group to accessible, keyboard friendly radio group.
 
 ## Installation
+```bash
+$ bower install radio-groupify
+```
 
 ## Options
 
@@ -43,4 +46,18 @@ jQuery('.radio-container').radioGroupify({
     return jQuery('h2.group-label');
   }
 });
+```
+
+## Running tests
+```bash
+$ gulp test
+```
+
+## Building locally
+```bash
+$ npm install
+```
+
+```bash
+$ gulp
 ```

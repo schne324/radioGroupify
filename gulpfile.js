@@ -12,6 +12,10 @@ gulp.task('scripts', function () {
 		.pipe(gulp.dest(BUILD_DIR));
 });
 
+gulp.task('watch', function () {
+	gulp.watch('src/**/*.js', ['scripts']);
+});
+
 gulp.task('test', shell.task([
 	'mocha-phantomjs test/index.html'
 ]));

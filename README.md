@@ -56,8 +56,6 @@ $ gulp test
 ## Building locally
 ```bash
 $ npm install
-```
-
-```bash
 $ gulp
+
 ```
